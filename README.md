@@ -26,3 +26,12 @@ choco upgrade chocolatey
 ```
 choco install -y 7zip choco install microsoft-edge notepadplusplus.install correttojdk netfx-4.8 dotnet4.7
 ```
+
+
+# SORDUM BASIC APPS
+
+[WINDOWS UPDATE BLOCKER](https://www.sordum.org/downloads/?st-windows-update-blocker)
+
+[DNS PROBLEM SOLVER](https://www.sordum.org/downloads/?dns-angel)
+
+[EASY CONTEXT MENU](https://www.sordum.org/downloads/?easy-context-menu)
