@@ -40,7 +40,11 @@ choco install -y 7zip choco install microsoft-edge notepadplusplus.install corre
 # J2534 SCANNER DRIVERS
 
 [AUTEL DEVICES](https://autel.com/us/software-downloads/) 
+
 [CARDAQ DEVICES](https://www.opusivs.com/support/product-downloads/)
+
 [BOSCH MASTERTECH 2](https://www.boschdiagnostics.com/software-updates/mastertech-ii-vci-firmware)
+
 [FORD VCM3](https://www.fordtechservice.dealerconnection.com/Rotunda/MCSIDSDownloadSoftware) OR [FORD VCM3](https://www.maverickdiagnostics.com/ford-dealer-diagnostic-software-updates/)
+
 [SCANMATIK 2](https://scanmatik.pro/pages/downloads)
