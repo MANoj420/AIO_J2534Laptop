@@ -2,7 +2,7 @@
 This GitHub page is for automotive diagnostic laptop build.
 
 
-# Install Chocolatey Installer
+# Install Chocolatey Installer & APPS
 https://chocolatey.org/install
 
 1. Open powershell.exe with admin rights
