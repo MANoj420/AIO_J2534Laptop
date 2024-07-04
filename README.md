@@ -48,3 +48,5 @@ choco install -y 7zip choco install microsoft-edge notepadplusplus.install corre
 [FORD VCM3](https://www.fordtechservice.dealerconnection.com/Rotunda/MCSIDSDownloadSoftware) OR [FORD VCM3](https://www.maverickdiagnostics.com/ford-dealer-diagnostic-software-updates/)
 
 [SCANMATIK 2](https://scanmatik.pro/pages/downloads)
+
+[TOPDON RLINK LITE](https://www.topdon.com/pages/pro-down.html?fuzzy=RLink%20Lite)
