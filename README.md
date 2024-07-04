@@ -20,3 +20,9 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 ```
 choco upgrade chocolatey
 ````
+
+3.Install Basic software using Chocolately
+
+```
+choco install -y 7zip choco install microsoft-edge notepadplusplus.install correttojdk netfx-4.8 dotnet4.7
+```
