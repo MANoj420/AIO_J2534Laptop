@@ -35,3 +35,12 @@ choco install -y 7zip choco install microsoft-edge notepadplusplus.install corre
 [DNS PROBLEM SOLVER](https://www.sordum.org/downloads/?dns-angel)
 
 [EASY CONTEXT MENU](https://www.sordum.org/downloads/?easy-context-menu)
+
+
+# J2534 SCANNER DRIVERS
+
+[AUTEL DEVICES](https://autel.com/us/software-downloads/) 
+[CARDAQ DEVICES](https://www.opusivs.com/support/product-downloads/)
+[BOSCH MASTERTECH 2](https://www.boschdiagnostics.com/software-updates/mastertech-ii-vci-firmware)
+[FORD VCM3](https://www.fordtechservice.dealerconnection.com/Rotunda/MCSIDSDownloadSoftware) OR [FORD VCM3](https://www.maverickdiagnostics.com/ford-dealer-diagnostic-software-updates/)
+[SCANMATIK 2](https://scanmatik.pro/pages/downloads)
